@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A new Flutter project.A beautiful chat app which is mad eusing flutter framework and firebase as the backend.It provides you features to send and recive messages in real time ,you can also send photos and videos with your friend and family. 
 
 ## Getting Started
 
